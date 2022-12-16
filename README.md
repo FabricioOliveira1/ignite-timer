@@ -6,7 +6,7 @@ Ignite Timer é um temporizador, no estilo de estudo Pomodoro. Este projeto o us
 Neste histório é mostrado todas as tarefas cadastradas, com status: concluído, em andamento e interrompido, de acordo com as ações do usuário.
 
 ## Layout web
-![Web 1][https://github.com/FabricioOliveira1/readMe--model/blob/main/assets/ignite-timer.png]
+![Web 1](https://github.com/FabricioOliveira1/readMe--model/blob/main/assets/ignite-timer.png)
 
 # Tecnologias utilizadas
 ## Front end
